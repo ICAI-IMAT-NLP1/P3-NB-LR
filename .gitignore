@@ -1,6 +1,4 @@
 # folders
-/data/train.txt
-/data/test.txt
 /saved_objects/
 /runs/
 /models/
